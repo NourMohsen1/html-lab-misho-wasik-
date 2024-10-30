@@ -1,0 +1,16 @@
+body {
+    position: relative;
+}
+
+header {
+    background-color: rgb(211, 195, 180);
+}
+
+body {
+
+    background-color: rgb(126, 241, 191);
+}
+
+article {
+    background-color: lightblue;
+}
